@@ -89,7 +89,7 @@ body{
 {
   width:100%;
   height: 600px;
-  background-image: url("https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/09/21234501/synergytop-bg.mp4");
+  background-image: url("./img/background_photo.png");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
